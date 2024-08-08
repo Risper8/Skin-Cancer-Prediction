@@ -11,7 +11,7 @@ The models are trained using the following datasets from Kaggle:
 
 ## Methodology
 
-The models were developed by fine-tuning a pre-trained EfficientNetB0 model.
+The models were developed by fine-tuning pre-trained EfficientNetB0 and ResNet50 models.
 
 ## Libraries and Frameworks
 
@@ -21,5 +21,5 @@ The models were developed by fine-tuning a pre-trained EfficientNetB0 model.
 
 ## Results
 
-- **Type of Cancer Prediction Model:** 85% accuracy
+- **Type of Cancer Prediction Model:** 86% accuracy
 - **Severity Prediction (Malignant vs. Benign):** 92% accuracy
